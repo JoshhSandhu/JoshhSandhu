@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Josh sandhu
-- 👀 I’m interested in ... forntend development and game development 
-- 🌱 I’m currently learning ...  PixiJS adn Phaser
-- 💞️ I’m looking to collaborate on ...  Any web-dev or gamedev related projects
+- 👀 I’m interested in ... forntend development, game development and blockchain development 
+- 🌱 I’m currently learning ...  Solidity
+- 💞️ I’m looking to collaborate on ...  Any web-dev, gamedev or blockchain related projects
 - 📫 How to reach me ... you can eamil me on: jo5h.singh.work@gamil.
 
 <!---
