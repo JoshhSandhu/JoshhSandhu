@@ -64,6 +64,8 @@
 
 ## 📊 GitHub Stats
 
+![Profile Views](https://komarev.com/ghpvc/?username=JoshhSandhu&color=blue)
+
 ![Josh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoshhSandhu&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshhSandhu&layout=compact&theme=radical)
