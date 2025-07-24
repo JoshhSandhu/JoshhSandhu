@@ -76,4 +76,4 @@
 
 ## 📢 Let's Connect!
 
-🔗 [Twitter](https://twitter.com/) | [LinkedIn](https://linkedin.com/) | [Portfolio](https://github.com/JoshhSandhu)
+🔗 [Twitter](https://x.com/0xJ05H) | [LinkedIn](https://www.linkedin.com/in/josh-sandhu-a4b8a91b8/) | [Portfolio](https://github.com/JoshhSandhu)
