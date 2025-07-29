@@ -50,7 +50,8 @@
 - AWS Academy Cloud Foundations (2021)
 - 30 Days of Google Cloud (2021)
 - Oracle Certified Foundations Associate (2021)
-- *Ethereum and Solidity: The Complete Developer's Guide* (In Progress)
+- Ethereum and Solidity: The Complete Developer's Guide (2025)
+- *Rust: The Complete Developer's Guide* (In progress)
 
 ---
 
