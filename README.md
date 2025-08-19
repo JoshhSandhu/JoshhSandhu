@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Josh Sandhu!
 
 🎓 B.Tech in Computer Science Engineering, Bennett University (2023).  
-🎮 Game Developer specializing in Unity, AI systems, procedural generation, and backend systems.  
-🚀 Currently exploring Blockchain, Ethereum, and Solidity development.
+🎮 Game Developer & Web3 Developer specializing in Unity, AI systems, procedural generation, blockchain, and backend systems.  
+🚀 Currently building Ethereum dApps and expanding into Rust & Solana development.
 
 ---
 
 ## 🚀 About Me
 
 - 🎮 Built 25+ games including slot games, arcade shooters, and AI-powered mechanics.
-- 🛠️ Skilled in Unity, Houdini, C#, Solidity, Python, PHP, SQL, WebGL.
-- 💡 Experienced in procedural generation, AI enemy systems, and backend integration.
-- 🔍 Passionate about building immersive gaming experiences and blockchain-based games.
-- 📚 Currently mastering Ethereum & Solidity to transition into Web3 game development.
+- 🛠️ Skilled in Unity, Houdini, C#, Solidity, Python, PHP, SQL, WebGL, and Rust.
+- 💡 Experienced in procedural generation, AI enemy systems, backend integration, and blockchain dApps.
+- 🔍 Passionate about immersive gaming experiences and decentralized applications.
+- 📚 Completed Ethereum & Solidity Developer Guide and Rust Complete Developer's Guide.
 
 ---
 
@@ -35,9 +35,20 @@
 
 ## 📂 Projects
 
-- 🎮 [**Blood Stone Uprising**](https://github.com/JoshhSandhu/BloodStoneUprising) — Procedural levels, RPG combat, AI, flying mechanics.
-- 🚗 [**Wayhicle**](https://github.com/JoshhSandhu/WAYhicle) — Neural networks & genetic algorithms for vehicle AI.
-- 🔫 [**Argus: Insurrection**](https://github.com/JoshhSandhu/Argus-Insurrection) — FPS gameplay, AI enemies, level design.
+### 🎮 Game Development
+- [**Blood Stone Uprising**](https://github.com/JoshhSandhu/BloodStoneUprising) — Procedural levels, RPG combat, AI, flying mechanics.
+- [**Wayhicle**](https://github.com/JoshhSandhu/WAYhicle) — Neural networks & genetic algorithms for vehicle AI.
+- [**Argus: Insurrection**](https://github.com/JoshhSandhu/Argus-Insurrection) — FPS gameplay, AI enemies, level design.
+
+### 🌐 Ethereum dApps
+- **ETH Voting** — Decentralized voting system with tamper-proof results.
+- **ETH Kickstarter** — Crowdfunding platform for campaigns on Ethereum.
+- **ETH Lottery** — Fair and provably random lottery using smart contracts.
+
+### 🔮 Upcoming (Phase 2: Rust/Solana)
+- **Solana NFT Marketplace** — Rust, Anchor & Solana Web3.js powered NFT platform.
+- **Solana Crash Game** — On-chain crash gambling game with Unity frontend.
+- **Solana Plinko** — Blockchain-based Plinko game on Solana.
 
 ---
 
@@ -51,15 +62,15 @@
 - 30 Days of Google Cloud (2021)
 - Oracle Certified Foundations Associate (2021)
 - Ethereum and Solidity: The Complete Developer's Guide (2025)
-- *Rust: The Complete Developer's Guide* (2025)
+- Rust: The Complete Developer's Guide (2025)
 
 ---
 
 ## 🛠️ Skills
 
-**Languages:** C#, Python, Solidity, Java, PHP, SQL, HTML, CSS  
-**Tools & Tech:** Unity, Houdini, WebGL, Git, Google NLP, Docker  
-**Focus Areas:** Game Development, AI Systems, Procedural Generation, Backend APIs, Blockchain (Learning)
+**Languages:** C#, Python, Solidity, Rust, Java, PHP, SQL, HTML, CSS  
+**Tools & Tech:** Unity, Houdini, WebGL, Git, Google NLP, Docker, Truffle, Hardhat  
+**Focus Areas:** Game Development, AI Systems, Procedural Generation, Backend APIs, Blockchain (Ethereum & Solana)
 
 ---
 
@@ -72,6 +83,7 @@
   <img src="https://img.shields.io/badge/Houdini-FF4713?style=for-the-badge&logo=houdini&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
