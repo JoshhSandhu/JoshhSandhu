@@ -47,8 +47,8 @@
 
 ### 🔮 Upcoming (Phase 2: Rust/Solana)
 - **Solana NFT Marketplace** — Rust, Anchor & Solana Web3.js powered NFT platform.
-- **Solana Crash Game** — On-chain crash gambling game with Unity frontend.
-- **Solana Plinko** — Blockchain-based Plinko game on Solana.
+- **Solana ?Redacted? Game** — On-chain ?Redacted? game with Unity frontend.
+- **Solana ?Redacted?** — Blockchain-based ?Redacted? game on Solana.
 
 ---
 
