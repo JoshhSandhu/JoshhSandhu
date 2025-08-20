@@ -41,9 +41,9 @@
 - [**Argus: Insurrection**](https://github.com/JoshhSandhu/Argus-Insurrection) — FPS gameplay, AI enemies, level design.
 
 ### 🌐 Ethereum dApps
-- **ETH Voting** — Decentralized voting system with tamper-proof results.
-- **ETH Kickstarter** — Crowdfunding platform for campaigns on Ethereum.
-- **ETH Lottery** — Fair and provably random lottery using smart contracts.
+- [**ETH Voting**](https://github.com/JoshhSandhu/ETH-Voting) — Decentralized voting system with tamper-proof results.
+- [**ETH Kickstarter**](https://github.com/JoshhSandhu/ETH-Kickstarter) — Crowdfunding platform for campaigns on Ethereum.
+- [**ETH Lottery**](https://github.com/JoshhSandhu/ETH-lottery) — Fair and provably random lottery using smart contracts.
 
 ### 🔮 Upcoming (Phase 2: Rust/Solana)
 - **Solana NFT Marketplace** — Rust, Anchor & Solana Web3.js powered NFT platform.
