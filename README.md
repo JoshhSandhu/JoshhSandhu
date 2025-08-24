@@ -68,7 +68,7 @@
 
 ## 🛠️ Skills
 
-**Languages:** C#, Python, Solidity, Rust, Java, PHP, SQL, HTML, CSS  
+**Languages:** C#, Python, Solidity, Rust, Java, SQL, HTML, CSS, C++  
 **Tools & Tech:** Unity, Houdini, WebGL, Git, Google NLP, Docker, Truffle, Hardhat  
 **Focus Areas:** Game Development, AI Systems, Procedural Generation, Backend APIs, Blockchain (Ethereum & Solana)
 
