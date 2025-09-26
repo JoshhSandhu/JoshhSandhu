@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 🎮 Built 25+ games including slot games, arcade shooters, and AI-powered mechanics.
-- 🛠️ Skilled in Unity, Houdini, C#, Solidity, Python, PHP, SQL, WebGL, and Rust.
+- 🛠️ Skilled in Unity, Houdini, C#, Solidity, Python, C++, SQL, WebGL, and Rust.
 - 💡 Experienced in procedural generation, AI enemy systems, backend integration, and blockchain dApps.
 - 🔍 Passionate about immersive gaming experiences and decentralized applications.
 - 📚 Completed Ethereum & Solidity Developer Guide and Rust Complete Developer's Guide.
