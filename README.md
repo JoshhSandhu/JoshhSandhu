@@ -21,7 +21,7 @@
 
 ## 🔥 Currently Working On
 - 🎮 **Crossy Road Web3 Edition** - Unity game with Solana blockchain integration
-- 🌐 **Solana NFT Marketplace** - Rust & Anchor powered NFT platform
+- 🌐 **Solana Pacman Game** - Rust & Anchor powered NFT platform
 - 🦀 **Rust Development** - Expanding blockchain skills to Solana ecosystem
 
 ## 💼 Experience
