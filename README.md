@@ -20,42 +20,57 @@
 🚀 Currently building Ethereum dApps and expanding into Rust & Solana development
 
 ## 🔥 Currently Working On
-- 🎮 **Crossy Road Web3 Edition** - Unity game with Solana blockchain integration
 - 🌐 **Solana Pacman Game** - Pacman Game build using Rust
 - 🦀 **Rust Development** - Expanding blockchain skills to Solana ecosystem
 
 ## 💼 Experience
 
 ### 🎮 Probability Gaming — Game Developer  
-*Oct 2022 – Present*  
+*Oct 2022 – Present*
 
-- Built **20+ slot games** with sticky reels, multipliers, bonus rounds, and reskins
-- Created Unity arcade shooter with backend (PHP) integration and WebGL deployment
-- Managed VFX, animations, and gameplay programming
-- Led bug fixing and documentation; collaborated with art/backend teams
+- Shipped **20+ production slot games** with sticky reels, multipliers, free spins, bonus rounds, and reskins
+- Led gameplay logic and **deterministic systems** critical for real-money gambling
+- Reduced post-release bug reports by **~30%** through stronger validation, edge-case handling, and clearer game state architecture
+- Shortened QA feedback cycles by **~30%** via focused debugging and internal documentation
+- Built a Unity arcade shooter with **backend integration (PHP)** and **WebGL deployment**
+- Acted as the stabilizing engineer on late-stage projects under tight deadlines
+- Collaborated with art and backend teams to ship production-ready builds
+
+---
 
 ### 🤖 PinnacleWorks Infotech — AI/NLP Developer Intern  
-*May 2022 – Sept 2022*  
+*May 2022 – Sept 2022*
 
-- Developed NLP chatbots using Google NLP for healthcare and education domains
-- Trained models, optimized accuracy, and handled backend integration
+- Built **NLP chatbots** for healthcare and education domains
+- Improved query resolution speed by **~25%** through model tuning and pipeline optimization
+- Worked across NLP models, backend integration, and QA
+- Optimized STT/TTS pipelines to reduce response latency
 - Produced performance documentation and QA support
+
+---
 
 ## ⭐ Featured Projects
 
 ### 🎮 Game Development
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**Blood Stone Uprising**](https://github.com/JoshhSandhu/BloodStoneUprising) | Procedural levels, RPG combat, AI, flying mechanics | Unity, C# |
-| [**Wayhicle**](https://github.com/JoshhSandhu/WAYhicle) | Neural networks & genetic algorithms for vehicle AI | Unreal Engine, C++ |
-| [**Argus: Insurrection**](https://github.com/JoshhSandhu/Argus-Insurrection) | FPS gameplay, AI enemies, level design | Unreal Engine, C++ |
+| [**Blood Stone Uprising**](https://github.com/JoshhSandhu/BloodStoneUprising) | Procedural level generation, RPG combat systems, AI behaviors, flying mechanics | Unreal Engine, C++ |
+| [**Wayhicle**](https://github.com/JoshhSandhu/WAYhicle) | Neural networks & genetic algorithms for autonomous vehicle behavior | Unreal Engine, C++ |
+| [**Argus: Insurrection**](https://github.com/JoshhSandhu/Argus-Insurrection) | FPS gameplay systems, AI enemies, combat logic, level systems | Unreal Engine, C++ |
 
 ### 🌐 Ethereum dApps
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**ETH Voting**](https://github.com/JoshhSandhu/ETH-Voting) | Decentralized voting system with tamper-proof results | Solidity, JavaScript |
-| [**ETH Kickstarter**](https://github.com/JoshhSandhu/ETH-Kickstarter) | Crowdfunding platform for campaigns on Ethereum | Solidity, Web3.js |
-| [**ETH Lottery**](https://github.com/JoshhSandhu/ETH-lottery) | Fair and provably random lottery using smart contracts | Solidity, Hardhat |
+| [**ETH Voting**](https://github.com/JoshhSandhu/ETH-Voting) | Tamper-resistant decentralized voting system | Solidity, JavaScript |
+| [**ETH Kickstarter**](https://github.com/JoshhSandhu/ETH-Kickstarter) | On-chain crowdfunding with campaign logic & withdrawals | Solidity, Web3.js |
+| [**ETH Lottery**](https://github.com/JoshhSandhu/ETH-lottery) | Deterministic & provably fair lottery smart contract | Solidity, Hardhat |
+
+### ☀️ Solana
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [**Solana Unity SDK (Open Source)**](https://github.com/JoshhSandhu/Solana.Unity-SDK) | Open-source Unity SDK for Solana wallet & transaction integration | Unity, C#, Solana |
+| [**Solracer**](https://github.com/JoshhSandhu/Solracer) | On-chain integrated racing game prototype | Unity, Solana |
+| [**Crossy Road (Web3)**](https://github.com/JoshhSandhu/CrossyRoad) | Crossy Road-style game with Solana wallet integration | Unity, Solana |
 
 ## 🛠️ Tech Stack
 
