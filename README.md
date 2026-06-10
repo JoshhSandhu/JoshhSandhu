@@ -25,7 +25,7 @@
 
 ## 💼 Experience
 
-### 🎮 Probability Gaming — Game Developer  
+### 🎮 Probability Gaming, Game Developer  
 *Oct 2022 – Present*
 
 - Shipped **20+ production slot games** with sticky reels, multipliers, free spins, bonus rounds, and reskins
@@ -38,7 +38,7 @@
 
 ---
 
-### 🤖 PinnacleWorks Infotech — AI/NLP Developer Intern  
+### 🤖 PinnacleWorks Infotech, AI/NLP Developer Intern  
 *May 2022 – Sept 2022*
 
 - Built **NLP chatbots** for healthcare and education domains
